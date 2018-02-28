@@ -1,5 +1,7 @@
 # git
 
+![这里写图片描述](https://github.com/f-changqing/git/blob/master/git-cheat-sheet-large01.png)
+
 ```
 git init
 
